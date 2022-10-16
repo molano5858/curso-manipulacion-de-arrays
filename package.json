@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/molano5858/curso-manipulacion-de-arrays/issues"
   },
-  "homepage": "https://github.com/molano5858/curso-manipulacion-de-arrays#readme"
+  "homepage": "https://github.com/molano5858/curso-manipulacion-de-arrays#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
 }
